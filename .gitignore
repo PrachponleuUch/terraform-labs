@@ -1,0 +1,6 @@
+.terraform/
+*.exe
+.terraform.lock.hcl
+lab1-5/.terraform/
+lab1-5/*.exe
+lab1-5/.terraform.lock.hcl
